@@ -1,0 +1,11 @@
+<layers>
+    
+    <!-- Disable the Theme layer when uninstalled -->
+    
+    <layer
+        name="shuiwu.theme"
+        interface="shuiwu.theme.browser.interfaces.IThemeSpecific"
+        remove="True"
+        />
+
+</layers>
