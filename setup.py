@@ -20,7 +20,7 @@ setup(name='shuiwu.theme',
       url='https://github.com/collective/',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
-      namespace_packages=['xtgl'],
+      namespace_packages=['shuiwu'],
       include_package_data=True,
       zip_safe=False,
       install_requires=[

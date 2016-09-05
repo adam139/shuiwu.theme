@@ -1,4 +1,4 @@
-recursive-include xtgl *
+recursive-include shuiwu *
 include *
 global-exclude *.pyc
 prune design
