@@ -42,7 +42,7 @@ class TestRendering(unittest.TestCase):
         browser = Browser(app)
         #open('/tmp/test.html','w').write(browser.contents)    
         browser.open(portal.absolute_url())
-        self.assertTrue('<img src="http://images.315ok.org/xtgl/images/menu_logo.jpg" alt="header">' in browser.contents)
+        self.assertTrue('<link rel="apple-touch-icon-precomposed"' in browser.contents)
     
                 
     def test_render_zmi_page(self):
