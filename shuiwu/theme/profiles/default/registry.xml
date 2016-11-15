@@ -29,7 +29,7 @@
     </value>
     <value key="merge_with">default</value>
     <value key="enabled">True</value>
-    <value key="jscompilation">++plone++sorter/sorter-compiled.min.js</value>
+    <value key="jscompilation">++plone++sorter/sorter-compiled.js</value>
     <value key="csscompilation">++plone++sorter/sorter-compiled.css</value>
     <value key="last_compilation">2016-10-04 00:00:00</value>
     <value key="stub_js_modules">
