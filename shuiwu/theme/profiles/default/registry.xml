@@ -17,7 +17,7 @@
             interface='Products.CMFPlone.interfaces.IResourceRegistry'>
     <value key="js">++plone++sorter/pattern.js</value>
     <value key="css">
-      <element>++plone++sorter/pattern.less</element>
+      <element>++plone++sorter/sorter-compiled.css</element>
     </value>
   </records>  
 </registry>
