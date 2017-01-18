@@ -2187,7 +2187,7 @@ fieldset[disabled] .link-parent.active {
   clear: left;
   background-color: #e6e4e4;
   margin-bottom: 20px;
-  margin-top: -20px;
+  margin-top: 50px;
   /* uncomment to hide breadcrumbs on home
   body.section-front-page & {display: none;} //not breadcrumbs on homepage
   */
@@ -3799,7 +3799,6 @@ ul.picker__list {
 .plone-navbar {
   background-color: #007bb1;
   color: white;
-  position: relative;
   min-height: 50px;
   margin-bottom: 20px;
   border: 1px solid transparent;
